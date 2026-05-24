@@ -1,5 +1,5 @@
 ---
-title: "Agent 落地前提：決定 AI 落地的 3 大核心能 #AI #agent #热点"
+title: "Agent 落地前提：決定 AI 落地的 3 大核心能"
 source: "抖音收藏"
 url: "https://www.douyin.com/video/7627543204161670400"
 video_id: "7627543204161670400"

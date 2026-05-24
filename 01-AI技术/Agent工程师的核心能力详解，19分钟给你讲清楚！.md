@@ -1,5 +1,5 @@
 ---
-title: "Agent工程师的核心能力详解，19分钟给你讲清楚！ #人工智能 #大模型 #AI大模型 #Agent #Agent工程师"
+title: "Agent工程师的核心能力详解，19分钟给你讲清楚！"
 source: "抖音收藏"
 url: "https://www.douyin.com/video/7629660844929944870"
 video_id: "7629660844929944870"
